@@ -6,9 +6,11 @@
       {
         "NetworkAds": "admob",
         "AdMobId": "ca-app-pub-6629505217627181~9327047990",
+
         "BannerAdmob": "ca-app-pub-6629505217627181/4469187571",
         "InterstitialAdmob": "ca-app-pub-6629505217627181/6903779221",
         "NativeAdmob": "ca-app-pub-6629505217627181/7038595264",
+
         "BannerFacebook": "",
         "InterstitialFacebook": "",
         "NativeFacebook": ""
@@ -19,119 +21,119 @@
     "items": [
       {
         "title": "مقدمة حول الكتاب",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/ayoubb998/M-miracle/master/1.jpeg"
       },
       {
         "title": " ملاحظة لك أيها القارئ",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/ayoubb998/M-miracle/master/1.jpeg"
       },
       {
         "title": "مقدمة: قصتي ",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/ayoubb998/M-miracle/master/3.jpg"
       },
       {
         "title": " تتمة مقدمة: قصتي",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/ayoubb998/M-miracle/master/3.jpg"
       },
       {
         "title": "الفصل الأول : 1 ",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/ayoubb998/M-miracle/master/6.jpg"
       },
       {
         "title": " الفصل الأول : 2 ",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/ayoubb998/M-miracle/master/6.jpg"
       },
       {
         "title": " الفصل الثاني : 1 ",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/ayoubb998/M-miracle/master/2.jpg"
       },
       {
         "title": " الفصل الثاني : 2 ",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/ayoubb998/M-miracle/master/2.jpg"
       },
       {
         "title": " الفصل الثاني : 3 ",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/ayoubb998/M-miracle/master/2.jpg"
       },
       {
         "title": "الفصل الثالث : 1 ",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/ayoubb998/M-miracle/master/9.jpg"
       },
       {
         "title": " الفصل الثالث : 2 ",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/ayoubb998/M-miracle/master/9.jpg"
       },
       {
         "title": "الفصل الثالث : 3 ",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/ayoubb998/M-miracle/master/9.jpg"
       },
       {
         "title": " الفصل الرابع  ",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/ayoubb998/M-miracle/master/8.jpg"
       },
       {
         "title": " الفصل الخامس ",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/ayoubb998/M-miracle/master/5.jpg"
       },
       {
         "title": " الفصل السادس: 1 ",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/ayoubb998/M-miracle/master/11.jpg"
       },
       {
         "title": " الفصل السادس : 2 ",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/ayoubb998/M-miracle/master/11.jpg"
       },
       {
         "title": " الفصل السادس : 3 ",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/ayoubb998/M-miracle/master/11.jpg"
       },
       {
         "title": " الفصل السادس : 4 ",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/ayoubb998/M-miracle/master/11.jpg"
       },
       {
         "title": " الفصل السادس : 5 ",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/ayoubb998/M-miracle/master/11.jpg"
       },
       {
         "title": "الفصل السادس : 6  ",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/ayoubb998/M-miracle/master/11.jpg"
       },
       {
         "title": " الفصل السادس : 7 ",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/ayoubb998/M-miracle/master/11.jpg"
       },
       {
         "title": " الفصل السادس : 8 ",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/ayoubb998/M-miracle/master/11.jpg"
       },
       {
         "title": " الفصل السابع ",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/ayoubb998/M-miracle/master/7.jpg"
       },
       {
         "title": " الفصل التامن ",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/ayoubb998/M-miracle/master/10.jpg"
       },
       {
         "title": "  الفصل التاسع : 1 ",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/ayoubb998/M-miracle/master/12.jpg"
       },
       {
         "title": " الفصل التاسع :2  ",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/ayoubb998/M-miracle/master/12.jpg"
       },
       {
         "title": " الفصل التاسع :3 ",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/ayoubb998/M-miracle/master/12.jpg"
       },
       {
         "title": " الفصل التاسع :4 ",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/ayoubb998/M-miracle/master/12.jpg"
       },
       {
         "title": " الفصل التاسع :5 ",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/ayoubb998/M-miracle/master/12.jpg"
       }
     ],
 
@@ -144,7 +146,7 @@
         "text_size": "30",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Dark Meadow : The Pact",
+        "text": "",
         "isNative": "false"
       },
       {
@@ -154,7 +156,7 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://usercontent1.hubstatic.com/8037694.jpg",
+        "image_link": "",
         "text": "بين الحين والآخر ، تقرأ كتابًا يغير الطريقة التي تنظر بها إلى الحياة.  ولكن من النادر جًدًا العثور على كتاب يغير الطريقة التي تعيش بها حياتك.  يقوم الصباح المعجزة بكليهما ، وأسرع مما كنت تعتقد أنه ممكن.  أنا أوصي بشدة بأحدث كتاب ل \"هال إلرود\". \n-تيم ساندرز ، الكاتب الأكثر مبيع اً في نيويورك تايمز للعامل المحتمل \n\"إن الصباح المعجزة هو حرفي اً الشيء الوحيد الذي سيحدث تغييرات فورية وعميقة في أ ي مجال من مجالات حياتك.  إذا كنت تريد حقًا تحسين حياتك ، اقرأ هذا الكتاب على الفور. \n-رود ي روتيغر ، لاعب كرة القدم نوتردام الذ ي ألهم فيلم هوليود الشهير رودي \"اعتقدت في البداية أن هال فقد عقله - لماذا على الأرض أن يستيقظ أ ي شخص مبكرًا بشكل منتظم؟  كنت متشككا ... حتى حاولت \nذلك.  عندما نفذت استراتيجيات هال لاحظت اختلافًا فوريًا في حياتي الشخصية والمهنية.  سيوضح لك الصباح المعجزة كيفية التحكم في حياتك ، بغض النظر عن ماضيك.  انا اوصي بشده به.\" \n-جوش شيب ، مضيف برنامج تلفزيوني ، مؤلف ، وخبير سلوك المراهقين \"إن قراءة\" الصباح المعجزة \"هي منح نفسك هدية الإستيقاظ كل يوم لإمكاناتك الكاملة  حان الوقت للتوقف عن تأجيل خلق الحياة التي \n تريدها وتستحق أن تعيشها.  اقرأ هذا الكتاب واكتشف كيف. \"",
         "isNative": "true"
       }
@@ -179,7 +181,7 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://usercontent1.hubstatic.com/6961608.jpg",
+        "image_link": "",
         "text": "\nجميع الحقوق محفوظة. \n© 2012 Hal Elrod International، Inc. هذا الكتاب مخصص لأهلي في العالم - عائلتي.  \nأمي ، أبي ، هايلي ، زوجتي اللطيفة ، المحبة ، الداعمة ، أورسولا ، وطفلينا - صوفي وهالستن ، أحبكما أكثر مما أستطيع وضعه في الكلمات. \n\nهذا الكتاب في ذكر ى محبة لملاكنا أختي:  أمير ي كريستين الرود \n ",
         "isNative": "true"
       }
