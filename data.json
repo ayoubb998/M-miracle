@@ -4,12 +4,12 @@
 
     "AdsController": [
       {
-        "NetworkAds": "facebook",
+        "NetworkAds": "admob",
         "AdMobId": "ca-app-pub-6629505217627181~9327047990",
 
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+        "BannerAdmob": "ca-app-pub-6629505217627181/4469187571",
+        "InterstitialAdmob": "ca-app-pub-6629505217627181/6903779221",
+        "NativeAdmob": "ca-app-pub-6629505217627181/7038595264",
 
         "BannerFacebook": "652578952286237_652618645615601",
         "InterstitialFacebook": "652578952286237_652617258949073",
@@ -171,7 +171,7 @@
         "text_size": "30",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Dark Meadow : The Pact",
+        "text": "",
         "isNative": "false"
       },
       {
