@@ -1,22 +1,23 @@
 {
   "GuideData": {
-
-
-    "AdsController": [
+    "AdsController": 
       {
-        "NetworkAds": "Facebook",
-        "AdMobId": "ca-app-pub-6629505217627181~9327047990",
+        "NetworkAds": "facebook",
 
-        "BannerAdmob": "ca-app-pub-6629505217627181/4469187571",
-        "InterstitialAdmob": "ca-app-pub-6629505217627181/6903779221",
-        "NativeAdmob": "ca-app-pub-6629505217627181/7038595264",
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 
-        "BannerFacebook": "652578952286237_652618645615601",
-        "InterstitialFacebook": "652578952286237_652617258949073",
-        "NativeFacebook": "652578952286237_652611575616308"
-
-      }
-    ],
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
+        "NativeFacebookSingle": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
+		
+        "ImageBanner": false,
+        "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+        "ImageBannerURL" : "https://www.google.com"
+		
+      },
 
     "items": [
       {
